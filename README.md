@@ -1,5 +1,5 @@
 # Read me
 
-bluetooth available
-name:bedbluetooth
-pin:1234
+bluetooth available  
+name:bedbluetooth   
+pin:1234  
