@@ -204,14 +204,8 @@ uint16_t Heartrate::digitalGetRate(void)
                 }
             }            
         }   
-		if((Arrange[7]-Arrange[3])>150){
+		if((Arrange[7]-Arrange[3])>165){
         Serial.println("Wait for valid data !"); 
-        /*Arrange_ = 0;
-        for(int i=3;i<=7;i++){
-            Arrange_ += Arrange[i];
-        }
-        valueTime_ = 300000/Arrange_;///<60*1000*(7-2)   
-		    return((uint16_t)valueTime_);*/
 		}	
         
         Arrange_ = 0;
