@@ -16,4 +16,6 @@ black:gnd
 blue:scl  
 green:sda  
 
+neopixel available  
+pin 6  
 
