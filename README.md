@@ -1,18 +1,19 @@
 # Read me
 
 bluetooth available  
-name:bedbluetooth  
+name:bedbluetooth   
 pin:1234  
-9600  
+9600   
 
 heartrate available  
 pin:A1  
 5v  
 gnd  
 
-bmp280  
-green:SDA-A4  
-blue:SCL-A5  
-red:3v3  
+bme280 available
+red:5v  
 black:gnd  
-i2cadd:0x77
+blue:scl  
+green:sda  
+
+
