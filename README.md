@@ -18,3 +18,10 @@ green:sda
 
 neopixel available  
 pin 6  
+
+send|light  
+---|---
+1（49）|white light  
+2（50）|warm light
+3（51）|color
+4（52）|stop
